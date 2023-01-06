@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew Spivey</h1>
+<h1 align="center">Hi 👋🏼, I'm Andrew Spivey</h1>
 <h3 align="center">A passionate Full Stack Developer who loves to learn, solve problems, and contribute to the success of others.</h3>
 
 - 🔭 I’m currently working on [Aerostar](https://github.com/Shift3/Aerostar)
