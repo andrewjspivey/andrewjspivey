@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋🏼, I'm Andrew Spivey</h1>
 <h3 align="center">A passionate Full Stack Developer who loves to learn, solve problems, and contribute to the success of others.</h3>
 
-- 🔭 I’m currently working on [Aerostar](https://github.com/Shift3/Aerostar)
 
-- 👨‍💻 Some of my personal projects are available at [https://andrewjspivey.github.io/](https://andrewjspivey.github.io/)
+- 👨‍💻 Check out my portfolio at [https://andrewjspivey.github.io/](https://andrewjspivey.github.io/)
 
 - 📫 How to reach me **12spivey@gmail.com**
 
-- 📄 Know about my experiences [https://andrewjspivey.github.io/assets/Andrew%20Spivey%20Resume%202022.pdf](https://andrewjspivey.github.io/assets/Andrew%20Spivey%20Resume%202022.pdf)
+- 📄 Know about my experiences [https://andrewjspivey.github.io/static/media/Andrew_Spivey_Resume_2023.9ecc0e1887d811209ac7.pdf](https://andrewjspivey.github.io/static/media/Andrew_Spivey_Resume_2023.9ecc0e1887d811209ac7.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
