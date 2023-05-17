@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **12spivey@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://andrewjspivey.github.io/static/media/Andrew_Spivey_Resume_2023.9ecc0e1887d811209ac7.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
